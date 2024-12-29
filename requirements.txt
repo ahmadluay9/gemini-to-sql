@@ -1,0 +1,9 @@
+python-dotenv
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-bigquery-storage
+db-dtypes
+pandas
+numpy
+streamlit
+
